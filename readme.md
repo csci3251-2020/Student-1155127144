@@ -11,3 +11,5 @@ Content | Reasons
 ------------ | ------------
 Swimming | Seems no sweating during the progress
 Programming | Spending quality time
+## Screenshot Photo
+![image](1155127144_ProjectMilestone2.png)
